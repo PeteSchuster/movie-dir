@@ -2,7 +2,7 @@
 
 var React = require('react/addons');
 
-require('styles/MovieSearch.scss');
+// require('styles/MovieSearch.scss');
 
 var MovieSearch = React.createClass({
   render: function () {
@@ -14,5 +14,4 @@ var MovieSearch = React.createClass({
   }
 });
 
-module.exports = MovieSearch; 
-
+module.exports = MovieSearch;

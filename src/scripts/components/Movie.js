@@ -2,7 +2,7 @@
 
 var React = require('react/addons');
 
-require('styles/Movie.scss');
+// require('styles/Movie.scss');
 
 var Movie = React.createClass({
   render: function () {
@@ -14,5 +14,4 @@ var Movie = React.createClass({
   }
 });
 
-module.exports = Movie; 
-
+module.exports = Movie;

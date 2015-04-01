@@ -2,7 +2,7 @@
 
 var React = require('react/addons');
 
-require('styles/MovieFilter.scss');
+// require('styles/MovieFilter.scss');
 
 var MovieFilter = React.createClass({
   render: function () {
@@ -14,5 +14,4 @@ var MovieFilter = React.createClass({
   }
 });
 
-module.exports = MovieFilter; 
-
+module.exports = MovieFilter;
